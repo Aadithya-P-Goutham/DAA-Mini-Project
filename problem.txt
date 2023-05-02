@@ -1,0 +1,3 @@
+In an organization, employees check-in and out of the company multiple times a day. This data
+is recorded and analyzed to generate the first entry and last exit timings of the employees
+during any given day. Design an algorithm to find the same.
